@@ -14,4 +14,4 @@ BƯỚC 1: Với file listFolderWillZip: bạn sẽ nhập đườngg dẫn đ�
 BƯỚC 2: Với file PathSaveFileZip.txt: bạn sẽ nhập đường dẫn đến folder mà bạn tạo dùng để lưu các file sau khi đã zip thành công
 	VÍ DỤ: muốn lưu các file zip đó trong folder BAK_FILE thì các bạn sẽ nhập vào file này là D:/BAK_FILE
 
-BƯỚC 3: Chạy file DelLogTool.ps1 bằng quyền Administrator là xong, trường hợp lỗi tool sẽ tự động gửi cảnh báo về telegram cho bạn.
+BƯỚC 3: Chạy file ZipFile.exe bằng quyền Administrator là xong, trường hợp lỗi tool sẽ tự động gửi cảnh báo về telegram cho bạn.
