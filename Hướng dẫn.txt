@@ -1,0 +1,17 @@
+BƯỚC 1: Với file listFolderWillZip: bạn sẽ nhập đườngg dẫn đến thư mục mẹ của các thư mục mà bạn cần nén:
+ 	VÍ DỤ:
+
+
+
+			   |----- 1.Install  	
+			   |----- 2.Log
+	Ổ "C:/"---Logs-----|----- 3.LogFile
+			   |----- 4.Window
+			   |----- 5.Program
+
+ 	Nếu bạn đang muốn nén các thư mục 1, 2, 3, 4, 5 thì sẽ copy đường dẫn sẽ là C:/Logs
+
+BƯỚC 2: Với file PathSaveFileZip.txt: bạn sẽ nhập đường dẫn đến folder mà bạn tạo dùng để lưu các file sau khi đã zip thành công
+	VÍ DỤ: muốn lưu các file zip đó trong folder BAK_FILE thì các bạn sẽ nhập vào file này là D:/BAK_FILE
+
+BƯỚC 3: Chạy file DelLogTool.ps1 bằng quyền Administrator là xong, trường hợp lỗi tool sẽ tự động gửi cảnh báo về telegram cho bạn.

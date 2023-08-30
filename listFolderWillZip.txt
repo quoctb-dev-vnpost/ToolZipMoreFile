@@ -1,0 +1,2 @@
+C:\logs
+C:\LogFiles
